@@ -4,7 +4,7 @@
     --main-color: #5128c9; 
     --secondary-color: black;
     --select-color: yellow;
-    --body-font: "Roboto", "PT sans", sans-serif;
+    --body-font: "Alegreya", "PT sans", sans-serif;
     --heading-font: "alegreya sans", fira sans,sans-serif; 
     --quote-font: "";
     --button-color: var(--select-color);
