@@ -1,11 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400|Alegreya:400,400i,700|Ubuntu:500);
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond&display=swap');
+
 
 :root { 
     --main-color: #5128c9; 
     --secondary-color: black;
     --select-color: yellow;
-    --body-font: "Lato", "PT sans", sans-serif;
-    --heading-font: "Lato", "alegreya sans", fira sans,sans-serif; 
+    --body-font: "EB Garamond", "PT sans", sans-serif;
+    --heading-font: "alegreya sans", fira sans,sans-serif; 
     --quote-font: "";
     --button-color: var(--select-color);
     --button-base: var(white);
