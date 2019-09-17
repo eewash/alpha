@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400|Alegreya:400,400i,700|Ubuntu:500|Roboto:400);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Gentium+Book+Basic:400,400i,700|Ubuntu:500|Roboto:400);
 
 :root { 
     --main-color: #5128c9; 
     --secondary-color: black;
     --select-color: yellow;
-    --body-font: "Alegreya", "PT sans", sans-serif;
-    --heading-font: "alegreya sans", fira sans,sans-serif; 
+    --body-font: "Gentium Book Basic", "PT sans", sans-serif;
+    --heading-font: "Open Sans", "alegreya sans", fira sans,sans-serif; 
     --quote-font: "";
     --button-color: var(--select-color);
     --button-base: var(white);
